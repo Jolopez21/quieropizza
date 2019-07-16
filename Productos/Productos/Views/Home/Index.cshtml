@@ -1,0 +1,10 @@
+﻿@model List<Productos.Models.Producto>
+
+
+<h2>Bienvenidos a mi Pagina</h2>
+
+
+@foreach (var producto in Model)
+{
+    <p>@producto.Descripcion</p>
+}
