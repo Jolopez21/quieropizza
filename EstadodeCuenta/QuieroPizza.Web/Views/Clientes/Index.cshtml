@@ -1,0 +1,31 @@
+﻿@model List<EstadodeCuenta.BL.Cliente>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Clientes</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                Codigo
+            </th>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Cuenta
+            </th>
+        </tr>
+    </thead>
+    @foreach (var cliente in Model)
+    {
+        <tr>
+            <td>@cliente.Id</td>
+            <td>@cliente.Nombre</td>
+            <td>@cliente.Cuenta</td>
+        </tr>
+    }
+</table>
