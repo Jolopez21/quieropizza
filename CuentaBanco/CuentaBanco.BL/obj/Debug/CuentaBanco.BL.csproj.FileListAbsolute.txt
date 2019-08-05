@@ -1,5 +1,0 @@
-C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.BL\bin\Debug\CuentaBanco.BL.dll
-C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.BL\bin\Debug\CuentaBanco.BL.pdb
-C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.BL\obj\Debug\CuentaBanco.BL.csprojResolveAssemblyReference.cache
-C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.BL\obj\Debug\CuentaBanco.BL.dll
-C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.BL\obj\Debug\CuentaBanco.BL.pdb
