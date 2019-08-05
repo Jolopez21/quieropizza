@@ -16,13 +16,15 @@ namespace EstadodeCuenta.WebAdmin.Controllers
             _ClientesBL = new ClientesBL();
         }
 
+        
+
         // GET: Clientes
         public ActionResult Index()
         {
-            var listadeClientes = _ClientesBL.ObtenerClientes();
+        var listadeClientes = _ClientesBL.ObtenerClientes();
 
-            return View(listadeClientes);
-        }
+          return View(listadeClientes);
+       }
 
         public ActionResult Crear()
         {

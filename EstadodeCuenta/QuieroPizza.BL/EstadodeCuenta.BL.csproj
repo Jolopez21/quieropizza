@@ -7,8 +7,8 @@
     <ProjectGuid>{615DCFCC-030D-49CC-AE42-13CF1D0AB2B8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>QuieroPizza.BL</RootNamespace>
-    <AssemblyName>QuieroPizza.BL</AssemblyName>
+    <RootNamespace>EstadodeCuenta.BL</RootNamespace>
+    <AssemblyName>EstadodeCuenta.BL</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publicar\</PublishUrl>
@@ -64,10 +64,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContextoT.cs" />
     <Compile Include="Contexto.cs" />
     <Compile Include="Cliente.cs" />
     <Compile Include="ClientesBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tipos.cs" />
+    <Compile Include="TiposBL.cs" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">

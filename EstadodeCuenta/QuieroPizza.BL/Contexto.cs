@@ -21,6 +21,9 @@ namespace EstadodeCuenta.BL
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
 
+        
         public DbSet<Cliente> Clientes { get; set; }
-    }
+        
+    
+}
 }

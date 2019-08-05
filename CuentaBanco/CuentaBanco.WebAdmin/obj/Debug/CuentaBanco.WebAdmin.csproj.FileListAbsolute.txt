@@ -1,0 +1,105 @@
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\ApplicationInsights.config
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\CuentaBanco.WebAdmin.dll.config
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\CuentaBanco.WebAdmin.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\CuentaBanco.WebAdmin.pdb
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Webpages.resources.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\obj\Debug\CuentaBanco.WebAdmin.dll
+C:\Users\DELL\Desktop\L4\Repos\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\obj\Debug\CuentaBanco.WebAdmin.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\ApplicationInsights.config
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\csc.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\vbc.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\CuentaBanco.WebAdmin.dll.config
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\CuentaBanco.WebAdmin.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\CuentaBanco.WebAdmin.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\CuentaBanco.BL.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Helpers.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Mvc.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Razor.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\CuentaBanco.BL.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Razor.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Helpers.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\System.Web.Mvc.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\obj\Debug\CuentaBanco.WebAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\obj\Debug\CuentaBanco.WebAdmin.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\cuentabanco\CuentaBanco\CuentaBanco.WebAdmin\obj\Debug\CuentaBanco.WebAdmin.pdb
