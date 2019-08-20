@@ -1,0 +1,12 @@
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\bin\Debug\EstadodeCuenta.BL.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\bin\Debug\EstadodeCuenta.BL.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\obj\Debug\EstadodeCuenta.BL.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\obj\Debug\EstadodeCuenta.BL.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\obj\Debug\EstadodeCuenta.BL.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\bin\Debug\DbContext.mdf
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\bin\Debug\DbContext_log.ldf
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\bin\Debug\EstadodeCuenta.BL.dll.config
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\bin\Debug\EntityFramework.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\bin\Debug\EntityFramework.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.BL\bin\Debug\EntityFramework.SqlServer.xml

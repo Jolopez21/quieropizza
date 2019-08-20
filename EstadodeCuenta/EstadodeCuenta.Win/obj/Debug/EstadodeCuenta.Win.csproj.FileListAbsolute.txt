@@ -1,0 +1,10 @@
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\bin\Debug\EstadodeCuenta.Win.exe.config
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\bin\Debug\EstadodeCuenta.Win.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\bin\Debug\EstadodeCuenta.Win.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\bin\Debug\EstadodeCuenta.BL.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\bin\Debug\EstadodeCuenta.BL.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\obj\Debug\EstadodeCuenta.Win.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\obj\Debug\EstadodeCuenta.Win.Properties.Resources.resources
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\obj\Debug\EstadodeCuenta.Win.csproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\obj\Debug\EstadodeCuenta.Win.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\EstadodeCuenta\EstadodeCuenta.Win\obj\Debug\EstadodeCuenta.Win.pdb
