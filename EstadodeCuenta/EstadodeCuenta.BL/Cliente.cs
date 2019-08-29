@@ -14,9 +14,9 @@ namespace EstadodeCuenta.BL
             Activo = true;
         }
 
-        [Required(ErrorMessage = "Ingrese una descripción")]
-        [MinLength(3, ErrorMessage = "Ingrese minimi 3 caracteres")]
-        [MaxLength(20, ErrorMessage = "Ingrese un maximo de 20 caracteres")]
+        //[Required(ErrorMessage = "Ingrese una descripción")]
+        //[MinLength(3, ErrorMessage = "Ingrese minimi 3 caracteres")]
+        //[MaxLength(20, ErrorMessage = "Ingrese un maximo de 20 caracteres")]
         public int Cuenta { get; set; }
         
 

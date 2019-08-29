@@ -143,6 +143,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\ClientesController.cs" />
+    <Compile Include="Controllers\DetallesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\TiposController.cs" />
     <Compile Include="Global.asax.cs">
@@ -170,6 +171,11 @@
     <Content Include="Views\Clientes\Editar.cshtml" />
     <Content Include="Views\Clientes\Detalle.cshtml" />
     <Content Include="Views\Clientes\Eliminar.cshtml" />
+    <Content Include="Views\Detalles\Crear.cshtml" />
+    <Content Include="Views\Detalles\Index.cshtml" />
+    <Content Include="Views\Detalles\Editar.cshtml" />
+    <Content Include="Views\Detalles\Eliminar.cshtml" />
+    <Content Include="Views\Detalles\Detalle.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -179,6 +185,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Imagenes\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

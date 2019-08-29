@@ -23,5 +23,8 @@ namespace EstadodeCuenta.BL
 
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Tipo> Tipos { get; set; }
+        public DbSet<detalle> Detalles { get; set; }
+
+
     }
 }
