@@ -1,24 +1,24 @@
-﻿@model IEnumerable<EstadodeCuenta.BL.Cliente>
+﻿@model IEnumerable<EstadodeCuenta.BL.Orden>
 
 @{
-    ViewBag.Title = "Cliente";
+    ViewBag.Title = "Ordenes";
 }
 
 <h2>Index</h2>
 
 <p>
-    @Html.ActionLink("Crear nuevo", "Crear")
+    @Html.ActionLink("Nueva Orden", "Crear")
 </p>
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.Nombre)
+            @Html.DisplayNameFor(model => model.Cliente)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Telefono)
+            @Html.DisplayNameFor(model => model.Fecha)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Direccion)
+            @Html.DisplayNameFor(model => model.Total)
         </th>
         <th>
             @Html.DisplayNameFor(model => model.Activo)
@@ -29,13 +29,13 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(modelItem => item.Nombre)
+            @Html.DisplayFor(modelItem => item.Cliente.Nombre)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Telefono)
+            @Html.DisplayFor(modelItem => item.Fecha)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Direccion)
+            @Html.DisplayFor(modelItem => item.Total)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.Activo)
@@ -43,7 +43,7 @@
         <td>
             @Html.ActionLink("Editar", "Editar", new { id=item.Id }) |
             @Html.ActionLink("Detalle", "Detalle", new { id=item.Id }) |
-            @Html.ActionLink("Eliminar", "Eliminar", new { id=item.Id })
+            @Html.ActionLink("Ver Productos", "Index", "OrdenDetalle", new { id=item.Id }, null)
         </td>
     </tr>
 }

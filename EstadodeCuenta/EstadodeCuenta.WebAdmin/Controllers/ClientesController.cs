@@ -9,19 +9,17 @@ namespace EstadodeCuenta.WebAdmin.Controllers
 {
     public class ClientesController : Controller
     {
-        ClientesBL _ClientesBL;
-        TiposBL _TiposBL;
+        ClientesBL _clientesBL;
 
         public ClientesController()
         {
-            _ClientesBL = new ClientesBL();
-            _TiposBL = new TiposBL();
+            _clientesBL = new ClientesBL();
         }
 
         // GET: Clientes
         public ActionResult Index()
         {
-            var listadeClientes = _ClientesBL.ObtenerClientes();
+            var listadeClientes = _clientesBL.ObtenerClientes();
 
             return View(listadeClientes);
         }
@@ -29,105 +27,63 @@ namespace EstadodeCuenta.WebAdmin.Controllers
         public ActionResult Crear()
         {
             var nuevoCliente = new Cliente();
-            var Tipos = _TiposBL.ObtenerTipos();
-
-
-            ViewBag.TipoId =
-                new SelectList(Tipos, "Id", "Descripcion");
 
             return View(nuevoCliente);
         }
 
         [HttpPost]
-        public ActionResult Crear(Cliente Cliente, HttpPostedFileBase imagen)
+        public ActionResult Crear(Cliente cliente)
         {
             if (ModelState.IsValid)
             {
-                if (Cliente.TipoId == 0)
-                {
-                    ModelState.AddModelError("TipoId", "Ingreses los tipos");
-                    return View(Cliente);
-                }
+                _clientesBL.GuardarCliente(cliente);
 
-                if (imagen != null)
-                {
-                    Cliente.UrlImagen = GuardarImagen(imagen);
-                }
-                _ClientesBL.GuardarCliente(Cliente);
+                return RedirectToAction("Index");
+            }
 
-            return RedirectToAction("Index");
-        }
-            var Tipos = _TiposBL.ObtenerTipos();
-
-
-            ViewBag.TipoId =
-                new SelectList(Tipos, "Id", "Descripcion");
-            return View(Cliente);
+            return View(cliente);
         }
 
         public ActionResult Editar(int id)
         {
-            var Cliente = _ClientesBL.ObtenerCliente(id);
-            var Tipos = _TiposBL.ObtenerTipos();
+            var cliente = _clientesBL.ObtenerCliente(id);
 
-            ViewBag.TipoId =
-                new SelectList(Tipos, "Id", "Descripcion", Cliente.TipoId);
-
-            return View(Cliente);
+            return View(cliente);
         }
 
         [HttpPost]
-        public ActionResult Editar(Cliente Cliente)
+        public ActionResult Editar(Cliente cliente)
         {
+            if (ModelState.IsValid)
             {
-                if (ModelState.IsValid)
-                {
-                    if (Cliente.TipoId == 0)
-                    {
-                        ModelState.AddModelError("TipoId", "Ingreses los tipos");
-                        return View(Cliente);
-                    }
-                    _ClientesBL.GuardarCliente(Cliente);
+                _clientesBL.GuardarCliente(cliente);
 
-                    return RedirectToAction("Index");
-                }
-                var Tipos = _TiposBL.ObtenerTipos();
-
-
-                ViewBag.TipoId =
-                    new SelectList(Tipos, "Id", "Descripcion");
-                return View(Cliente);
+                return RedirectToAction("Index");
             }
+
+            return View(cliente);
         }
 
         public ActionResult Detalle(int id)
         {
-            var Cliente = _ClientesBL.ObtenerCliente(id);
+            var cliente = _clientesBL.ObtenerCliente(id);
 
-            return View(Cliente);
+            return View(cliente);
         }
 
         public ActionResult Eliminar(int id)
         {
-            var Cliente = _ClientesBL.ObtenerCliente(id);
+            var cliente = _clientesBL.ObtenerCliente(id);
 
-            return View(Cliente);
+            return View(cliente);
         }
 
         [HttpPost]
-        public ActionResult Eliminar(Cliente Cliente)
+        public ActionResult Eliminar(Cliente cliente)
         {
-            _ClientesBL.EliminarCliente(Cliente.Id);
+            _clientesBL.EliminarCliente(cliente.Id);
 
             return RedirectToAction("Index");
-        }
-
-        private string GuardarImagen(HttpPostedFileBase imagen)
-        {
-            string path = Server.MapPath("~/Imagenes/" + imagen.FileName);
-            imagen.SaveAs(path);
-
-            return "/Imagenes/" + imagen.FileName;
         }
     }
 }

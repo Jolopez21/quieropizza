@@ -9,25 +9,20 @@ namespace EstadodeCuenta.BL
 {
     public class Cliente
     {
-        public Cliente()
-        {
-            Activo = true;
-        }
-
-        //[Required(ErrorMessage = "Ingrese una descripción")]
-        //[MinLength(3, ErrorMessage = "Ingrese minimi 3 caracteres")]
-        //[MaxLength(20, ErrorMessage = "Ingrese un maximo de 20 caracteres")]
-        public int Cuenta { get; set; }
-        
-
         public int Id { get; set; }
+
+        [Required(ErrorMessage = "Ingrese el nombre del cliente")]
+        [MinLength(3, ErrorMessage = "Ingrese mínimo 3 caracteres")]
         public string Nombre { get; set; }
-        public int TipoId { get; set; }
-        public Tipo Tipo { get; set; }
 
-        [Display(Name = "Imagen")]
-        public string UrlImagen { get; set; }
+        [Required(ErrorMessage = "Ingrese el telefono")]
+        [MinLength(8, ErrorMessage = "El telefono debe ser de 8 digitos")]
+        [MaxLength(8, ErrorMessage = "El telefono debe ser de 8 digitos")]
+        public string Telefono { get; set; }
 
+        [Required(ErrorMessage = "Ingrese la direccion")]
+        [MinLength(3, ErrorMessage = "Ingrese mínimo 3 caracteres")]
+        public string Direccion { get; set; }
         public bool Activo { get; set; }
     }
 }

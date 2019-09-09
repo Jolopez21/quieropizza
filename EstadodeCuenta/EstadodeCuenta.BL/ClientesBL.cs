@@ -20,26 +20,36 @@ namespace EstadodeCuenta.BL
         public List<Cliente> ObtenerClientes()
         {
             ListadeClientes = _contexto.Clientes
-                .Include("Tipo")
+                .OrderBy(r => r.Nombre)
                 .ToList();
 
             return ListadeClientes;
         }
 
-        public void GuardarCliente(Cliente Cliente)
+        public List<Cliente> ObtenerClientesActivos()
         {
-            if (Cliente.Id == 0)
+            ListadeClientes = _contexto.Clientes
+                .Where(r => r.Activo == true)
+                .OrderBy(r => r.Nombre)
+                .ToList();
+
+            return ListadeClientes;
+        }
+
+        public void GuardarCliente(Cliente cliente)
+        {
+            if (cliente.Id == 0)
             {
-                _contexto.Clientes.Add(Cliente);
+                _contexto.Clientes.Add(cliente);
             }
             else
             {
-                var ClienteExistente = _contexto.Clientes.Find(Cliente.Id);
+                var clienteExistente = _contexto.Clientes.Find(cliente.Id);
 
-                ClienteExistente.Nombre = Cliente.Nombre;
-                ClienteExistente.TipoId = Cliente.TipoId;
-                ClienteExistente.Cuenta = Cliente.Cuenta;
-                ClienteExistente.UrlImagen = Cliente.UrlImagen;
+                clienteExistente.Nombre = cliente.Nombre;
+                clienteExistente.Telefono = cliente.Telefono;
+                clienteExistente.Direccion = cliente.Direccion;
+                clienteExistente.Activo = cliente.Activo;
             }
 
             _contexto.SaveChanges();
@@ -47,17 +57,16 @@ namespace EstadodeCuenta.BL
 
         public Cliente ObtenerCliente(int id)
         {
-            var Cliente = _contexto.Clientes
-                .Include("Tipo").FirstOrDefault(p => p.Id == id);
+            var cliente = _contexto.Clientes.Find(id);
 
-            return Cliente;
+            return cliente;
         }
 
         public void EliminarCliente(int id)
         {
-            var Cliente = _contexto.Clientes.Find(id);
+            var cliente = _contexto.Clientes.Find(id);
 
-            _contexto.Clientes.Remove(Cliente);
+            _contexto.Clientes.Remove(cliente);
             _contexto.SaveChanges();
         }
     }
